@@ -1,5 +1,5 @@
 {
-    "name": "yabacon/paystack-php",
+    "name": "garung/paystack",
     "type": "library",
     "description": "Helps make your Paystack API calls giving a stdClass object.",
     "keywords": [

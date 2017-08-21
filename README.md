@@ -21,7 +21,7 @@ A PHP API wrapper for [Paystack](https://paystack.co/).
 ### Via Composer
 
 ``` bash
-    $ composer require yabacon/paystack-php
+    $ composer require garung/paystack
 ```
 
 ### Via download
